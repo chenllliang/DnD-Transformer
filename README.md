@@ -1,5 +1,9 @@
 # DnD-Transformer: ✨ A Spark of Vision-Language Intelligence
 
+<p align="center">
+<img src="./llama-dnd.png" width=40%>
+<p>
+
 </div>
 <p align="center" style="font-size: larger;">
   <a href="">A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation </a>
