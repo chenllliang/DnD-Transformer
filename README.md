@@ -14,8 +14,9 @@
 
 
 ## Todos
-- [ ] Release Dataset
-- [ ] Release Model Checkpoints and Inference Code
+- [ ] Update readme
+- [ ] Release dataset
+- [ ] Release model checkpoints and inference code
 - [ ] Release training codes
 
 ## Citation
