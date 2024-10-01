@@ -1,4 +1,4 @@
-# DnD-Transformer
+# DnD-Transformer: ✨ A Spark of Vision-Language Intelligence
 
 </div>
 <p align="center" style="font-size: larger;">
