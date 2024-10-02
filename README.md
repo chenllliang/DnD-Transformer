@@ -23,12 +23,7 @@ What's New?
 <br>
 
 
-## Todos
-- [ ] Update README.md
-- [ ] Release dataset
-- [ ] Release model checkpoints and inference code
-- [ ] Release training codes
+## Codes
+- [ ] Codes, datasets, models would be released soon ~
 
-## Citation
 
-coming soon~
