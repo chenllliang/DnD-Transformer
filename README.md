@@ -26,4 +26,18 @@ What's New?
 ## Codes
 - [ ] Codes, datasets, models would be released soon ~
 
+## Reference
+
+```bib
+@misc{chen2024sparkvisionlanguageintelligence2dimensional,
+      title={A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation}, 
+      author={Liang Chen and Sinan Tan and Zefan Cai and Weichu Xie and Haozhe Zhao and Yichi Zhang and Junyang Lin and Jinze Bai and Tianyu Liu and Baobao Chang},
+      year={2024},
+      eprint={2410.01912},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.01912}, 
+}
+```
+
 
