@@ -14,7 +14,7 @@
 
 What's New?
 
-1. A better AR image genenation paradigm and transformer model structure based on 2D autoregression. It generate images of higher quality without increasing computation budget.
+1. A better AR image genenation paradigm and transformer model structure based on 2D autoregression. It generates images of higher quality without increasing computation budget.
 
 2. A spark of vision-language intelligence for the first time, enabling unconditional rich-text image generation, outperforming diffusion models like DDPM and Stable Diffusion on dedicated rich-text image datasets, highlighting the distinct advantage of autoregressive models for multimodal modeling.
 <p>
