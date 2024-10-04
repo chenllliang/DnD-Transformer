@@ -6,7 +6,7 @@
 
 </div>
 <p align="center" style="font-size: larger;">
-  <a href="">A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation </a>
+  <a href="https://arxiv.org/abs/2410.01912">A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation </a>
 </p>
 
 <p align="center">
