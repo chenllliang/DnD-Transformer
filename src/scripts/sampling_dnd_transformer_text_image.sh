@@ -1,7 +1,7 @@
 export PYTHONPATH=$PYTHONPATH:./src
 
-VQ_CKPT=<VQ_CKPT_ADDRESS>  # make sure the config.yaml file is in the same folder
-GPT_CKPT=<GPT_CKPT_ADDRESS>
+VQ_CKPT="VQ_CKPT_ADDRESS"  # make sure the config.yaml file is in the same folder
+GPT_CKPT="GPT_CKPT_ADDRESS"
 GPT_SIZE=GPT-XXL
 
 # set nproc_per_node to number of GPUs to speed up
