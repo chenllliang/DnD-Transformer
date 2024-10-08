@@ -22,9 +22,86 @@ What's New?
 
 <br>
 
+## Models
 
-## Codes
-- [ ] Codes, datasets, models would be released soon ~
+### DnD-Tokenizers
+
+
+
+*Text-Image*
+
+| Code Size | Link |
+|:---:|:---:|
+| 24x24x1 | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/2d_tokenizer_text_image) |
+
+*ImageNet*
+
+| Code Size | Link | rFID |
+|:---:|:---:|:---:|
+| 16x16x2 | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/2d_tokenzier_imagenet) | 0.92 |
+
+*arXiv-Image*
+
+coming soon~
+
+### DnD-Transformers
+
+
+
+*Text-Image*
+
+| Code Shape | Model Size | Link | 
+|:---:|:---:|:---:|
+| 24x24x1 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_text_image_1layer/XXL) |  
+
+
+*ImageNet*
+
+| Code Shape | Model Size | Link | gFID |
+|:---:|:---:|:---:|:---:|
+| 16x16x2 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_imagenet_2layer/XXL) | 2.58 (cfg=2) |
+| 16x16x2 | XXXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_imagenet_2layer/XXXL) | 2.21 (cfg=1.7) |
+
+
+*arXiv-Image*
+
+coming soon~
+
+
+## Setup
+
+```bash
+conda create -n DnD python=3.10
+conda activate DnD
+pip install -r requirements.txt
+```
+
+
+## Inference
+
+*Sampling Text-Image Examples*
+```bash
+cd ./src
+bash ./scripts/sampling_dnd_transformer_text_image.sh # edit the address for vq model checkpoint and dnd-transformer checkpoint
+```
+
+*Sampling ImageNet Examples*
+```bash
+cd ./src
+bash ./scripts/sampling_dnd_transformer_imagenet.sh # edit the address for vq model checkpoint and dnd-transformer checkpoint
+
+# An npz would be saved after genearting 50k images, you can follow https://github.com/openai/guided-diffusion/tree/main/evaluations to compute the generated FID.
+```
+
+
+
+
+
+
+## Training
+
+Training code and Dataset are coming soon!
+
 
 
 ## Reference
