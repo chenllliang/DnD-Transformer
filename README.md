@@ -95,7 +95,7 @@ cd ./src
 bash ./scripts/sampling_dnd_transformer_text_image.sh # edit the address for vq model checkpoint and dnd-transformer checkpoint
 ```
 
-*Sampling ImageNet Examples*
+*Sampling ImageNet Examples and Compute FID*
 ```bash
 cd ./src
 bash ./scripts/sampling_dnd_transformer_imagenet.sh # edit the address for vq model checkpoint and dnd-transformer checkpoint
@@ -106,11 +106,17 @@ bash ./scripts/sampling_dnd_transformer_imagenet.sh # edit the address for vq mo
 
 
 
-
-
 ## Training
 
 Training code and Dataset are coming soon!
+
+## Evaluation
+
+### ReconstructionOCR (rOCR)
+coming soon~
+
+### PPL-OCR
+coming soon~
 
 
 
