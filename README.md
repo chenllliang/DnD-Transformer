@@ -1,13 +1,15 @@
 # DnD-Transformer: ✨ A Spark of Vision-Language Intelligence
 
 <p align="center">
+        🤗 <a href="https://huggingface.co/leonardPKU/DnD-Transformer">Model</a>&nbsp&nbsp | 🤗 <a href=""> Dataset (Coming Soon)</a>&nbsp&nbsp| &nbsp&nbsp📑 <a href="https://arxiv.org/abs/2410.01912">Paper</a> | &nbsp&nbsp💻<a href="https://github.com/chenllliang/DnD-Transformer"> Github</a>
+</p>
+
+<p align="center">
 <img src="./llama-dnd.png" width=40%>
 <p>
 
 </div>
-<p align="center" style="font-size: larger;">
-  <a href="https://arxiv.org/abs/2410.01912">A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation </a>
-</p>
+
 
 <p align="center">
 <img src="./teaser.png" width=95%>
