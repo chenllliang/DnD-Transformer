@@ -34,7 +34,7 @@ What's New?
 
 ## Models
 
-### DnD-Tokenizers (VQ-CKPT)
+### DnD-Tokenizers (VQVAE-Checkpoints)
 
 
 
@@ -54,7 +54,7 @@ What's New?
 
 coming soon~
 
-### DnD-Transformers (GPT-CKPT)
+### DnD-Transformers (GPT-Checkpoints)
 
 
 
