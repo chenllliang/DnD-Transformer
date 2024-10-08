@@ -65,7 +65,6 @@ What's New?
 
 
 *ImageNet*
-
 | Code Shape | Model Size | Link | gFID |
 |:---:|:---:|:---:|:---:|
 | 16x16x2 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_imagenet_2layer/XXL) | 2.58 (cfg=2) |
@@ -73,7 +72,6 @@ What's New?
 
 
 *Text-Image*
-
 | Code Shape | Model Size | Link | 
 |:---:|:---:|:---:|
 | 24x24x1 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_text_image_1layer/XXL) |  
@@ -81,9 +79,6 @@ What's New?
 
 
 *arXiv-Image*
-
-*Text-Image*
-
 | Code Shape | Model Size | Link | 
 |:---:|:---:|:---:|
 | 16x16x8 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_arxiv_image_8layer/XXL) |  
