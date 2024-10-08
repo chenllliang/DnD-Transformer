@@ -1,5 +1,7 @@
 # DnD-Transformer: ✨ A Spark of Vision-Language Intelligence
 
+
+
 <p align="center">
         🤗 <a href="https://huggingface.co/leonardPKU/DnD-Transformer">Model</a>&nbsp&nbsp | 🤗 <a href=""> Dataset (Coming Soon)</a>&nbsp&nbsp| &nbsp&nbsp📑 <a href="https://arxiv.org/abs/2410.01912">Paper</a> | &nbsp&nbsp💻<a href="https://github.com/chenllliang/DnD-Transformer"> Github</a>
 </p>
@@ -10,6 +12,12 @@
 
 </div>
 
+## Updates 🎈
+
+- 2024-10-8: Release models and inference code
+- 2024-10-4: Release paper
+
+<br>
 
 <p align="center">
 <img src="./teaser.png" width=95%>
@@ -22,11 +30,11 @@ What's New?
 <p>
 
 
-<br>
+
 
 ## Models
 
-### DnD-Tokenizers
+### DnD-Tokenizers (VQ)
 
 
 
@@ -46,7 +54,7 @@ What's New?
 
 coming soon~
 
-### DnD-Transformers
+### DnD-Transformers (GPT)
 
 
 
