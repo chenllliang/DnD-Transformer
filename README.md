@@ -40,8 +40,8 @@ What's New?
 
 | Code Size | Codebook Size | Link | rFID |
 |:---:|:---:|:---:|:---:|
-| 16x16x2 | 16384 | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/2d_tokenzier_imagenet) | 0.92 |
-| 32x32x2 | 16384 | coming soon~ | 0.32 |
+| 16x16x2 | 16384 | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/2d_tokenzier_imagenet) | 0.92 (256x256) |
+| 32x32x2 | 16384 | coming soon~ | 0.42 (512x512) |
 
 *Text-Image*
 
@@ -65,23 +65,23 @@ What's New?
 
 
 *ImageNet*
-| Code Shape | Model Size | Link | gFID |
-|:---:|:---:|:---:|:---:|
-| 16x16x2 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_imagenet_2layer/XXL) | 2.58 (cfg=2) |
-| 16x16x2 | XXXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_imagenet_2layer/XXXL) | 2.21 (cfg=1.7) |
+| Code Shape | Image Size | Model Size | Link | gFID |
+|:---:|:---:|:---:|:---:|:---:|
+| 16x16x2 | 256x256 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_imagenet_2layer/XXL) | 2.58 (cfg=2) |
+| 16x16x2 | 256x256 | XXXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_imagenet_2layer/XXXL) | 2.21 (cfg=1.7) |
 
 
 *Text-Image*
-| Code Shape | Model Size | Link | 
-|:---:|:---:|:---:|
-| 24x24x1 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_text_image_1layer/XXL) |  
+| Code Shape | Image Size | Model Size | Link | 
+|:---:|:---:|:---:|:---:|
+| 24x24x1 | 384x384 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_text_image_1layer/XXL) |  
 
 
 
 *arXiv-Image*
-| Code Shape | Model Size | Link | 
-|:---:|:---:|:---:|
-| 16x16x8 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_arxiv_image_8layer/XXL) |  
+| Code Shape | Image Size | Model Size | Link | 
+|:---:|:---:|:---:|:---:|
+| 16x16x8 | 256x256 | XXL | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/trained_dnd_transformer_arxiv_image_8layer/XXL) |  
 
 
 
