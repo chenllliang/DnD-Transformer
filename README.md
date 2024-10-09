@@ -41,7 +41,7 @@ What's New?
 | Code Size | Codebook Size | Link | rFID |
 |:---:|:---:|:---:|:---:|
 | 16x16x2 | 16384 | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/2d_tokenzier_imagenet) | 0.92 (256x256) |
-| 32x32x2 | 16384 | coming soon~ | 0.42 (512x512) |
+| 32x32x2 | 16384 | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/2d_tokenizer_imagenet512) | 0.42 (512x512) |
 
 *Text-Image*
 
@@ -139,6 +139,10 @@ coming soon~
 coming soon~
 
 
+
+## Acknowledgements
+
+Thanks to [RQVAE](https://github.com/kakaobrain/rq-vae-transformer) and [LlamaGen](https://github.com/FoundationVision/LlamaGen) for providing the open source codebase.
 
 ## Reference
 
