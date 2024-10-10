@@ -40,8 +40,8 @@ What's New?
 
 | Code Size | Codebook Size | Link | rFID |
 |:---:|:---:|:---:|:---:|
-| 16x16x2 | 16384 | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/2d_tokenzier_imagenet) | 0.92 (256x256) |
-| 32x32x2 | 16384 | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/2d_tokenizer_imagenet512) | 0.42 (512x512) |
+| 16x16x2 | 16384 | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/2d_tokenzier_imagenet) | 0.92 (256x256 SoTA!) |
+| 32x32x2 | 16384 | [🤗](https://huggingface.co/leonardPKU/DnD-Transformer/tree/main/2d_tokenizer_imagenet512) | 0.42 (512x512 SoTA!) |
 
 *Text-Image*
 
