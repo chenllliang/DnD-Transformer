@@ -129,6 +129,10 @@ bash ./scripts/sampling_dnd_transformer_arxiv_image.sh # edit the address for vq
 
 ## Training
 
+### Training VQVAEs
+
+We refer to [RQVAE](https://github.com/kakaobrain/rq-vae-transformer) for training the multi-depth VQVAEs.
+
 ### Extract Codes for Training
 
 ```bash
