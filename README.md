@@ -14,8 +14,9 @@
 
 ## Updates 🎈
 
-- 2024-10-8: Release models and inference code
-- 2024-10-4: Release paper
+- 2024-10-11: Release training code.
+- 2024-10-8: Release models and inference code.
+- 2024-10-4: Release paper.
 
 <br>
 
@@ -128,7 +129,20 @@ bash ./scripts/sampling_dnd_transformer_arxiv_image.sh # edit the address for vq
 
 ## Training
 
-Training code and Dataset are coming soon!
+### Extract Codes for Training
+
+```bash
+cd ./src
+bash ./scripts/extract_codes_tencrop_c2i.sh
+```
+
+
+### Training DnD-Transformers
+
+```bash
+cd ./src
+bash ./scripts/train_dnd_transformer_imagenet.sh
+```
 
 ## Evaluation
 
