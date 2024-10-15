@@ -21,5 +21,13 @@ pycocotools
 datasets
 clip
 tensorflow
+huggingface_hub
+accelerate
+transformers
+decord
 pytorch_msssim
-
+timm
+einops
+sentencepiece
+rouge_score
+flash-attn
