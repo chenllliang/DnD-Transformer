@@ -151,7 +151,27 @@ bash ./scripts/train_dnd_transformer_imagenet.sh
 ## Evaluation
 
 ### ReconstructionOCR (rOCR)
-coming soon~
+
+```bash
+sh ./scripts/rOCR.sh
+```
+
+Or
+
+```bash
+python infer_gt_ModelParallel_qwen.py \
+--batch_size 16 \
+--gt_dir <gt_dir> \
+--images_dir <images_dir> \
+--model_dir <model_dir> \
+--output_dir <output_dir>
+
+python metrics.py \
+--predict_dir <predict_dir> \
+--gt_dir <gt_dir> \
+--output_dir <output_dir>
+
+```
 
 ### PPL-OCR
 coming soon~
